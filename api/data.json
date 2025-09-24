@@ -1,0 +1,559 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Red Printed T-shirt by HRX",
+            "price": 500,
+            "image": "RedStore_Img\/product-1.jpg",
+            "description": "Comfortable red printed T-shirt by HRX, perfect for casual wear and workouts.",
+            "category": "T-shirts",
+            "stock": 7,
+            "rating": 2.8
+        },
+        {
+            "id": 2,
+            "name": "Black Sports Shoes",
+            "price": 2500,
+            "image": "RedStore_Img\/product-2.jpg",
+            "description": "Durable black sports shoes designed for running and gym activities.",
+            "category": "Shoes",
+            "stock": 14,
+            "rating": 4.5
+        },
+        {
+            "id": 3,
+            "name": "Black Joggers",
+            "price": 4000,
+            "image": "RedStore_Img\/product-3.jpg",
+            "description": "Premium black joggers with a relaxed fit, ideal for sports and casual outings.",
+            "category": "Joggers",
+            "stock": 8,
+            "rating": 4.5
+        },
+        {
+            "id": 4,
+            "name": "Blue Printed T-shirt by Puma",
+            "price": 600,
+            "image": "RedStore_Img\/product-4.jpg",
+            "description": "Stylish blue printed T-shirt by Puma, great for everyday wear.",
+            "category": "T-shirts",
+            "stock": 2,
+            "rating": 4.5
+        },
+        {
+            "id": 5,
+            "name": "Gray Sneakers",
+            "price": 3000,
+            "image": "RedStore_Img\/product-5.jpg",
+            "description": "Comfortable gray sneakers for running and casual use.",
+            "category": "Shoes",
+            "stock": 5,
+            "rating": 4.5
+        },
+        {
+            "id": 6,
+            "name": "Black Printed T-shirt by Puma",
+            "price": 550,
+            "image": "RedStore_Img\/product-6.jpg",
+            "description": "Sleek black printed T-shirt by Puma, perfect for an active lifestyle.",
+            "category": "T-shirts",
+            "stock": 10,
+            "rating": 4.5
+        },
+        {
+            "id": 7,
+            "name": "Puma Sports Socks",
+            "price": 250,
+            "image": "RedStore_Img\/product-7.jpg",
+            "description": "Breathable Puma sports socks, ideal for workouts and daily wear.",
+            "category": "Socks",
+            "stock": 0,
+            "rating": 4.5
+        },
+        {
+            "id": 8,
+            "name": "Watch by Fossil",
+            "price": 8000,
+            "image": "RedStore_Img\/product-8.jpg",
+            "description": "Elegant Fossil watch, perfect for both casual and formal occasions.",
+            "category": "Watches",
+            "stock": 5,
+            "rating": 4
+        },
+        {
+            "id": 9,
+            "name": "Watch by Roadster",
+            "price": 6000,
+            "image": "RedStore_Img\/product-9.jpg",
+            "description": "Stylish Roadster watch, ideal for everyday wear with a modern look.",
+            "category": "Watches",
+            "stock": 7,
+            "rating": 4
+        },
+        {
+            "id": 10,
+            "name": "Black and Red Printed Shoes",
+            "price": 3500,
+            "image": "RedStore_Img\/product-10.jpg",
+            "description": "Trendy black and red printed shoes, great for casual and sporty looks.",
+            "category": "Shoes",
+            "stock": 12,
+            "rating": 4
+        },
+        {
+            "id": 11,
+            "name": "Grey Sports Shoes",
+            "price": 3200,
+            "image": "RedStore_Img\/product-11.jpg",
+            "description": "Comfortable grey sports shoes, designed for performance and style.",
+            "category": "Shoes",
+            "stock": 15,
+            "rating": 4
+        },
+        {
+            "id": 12,
+            "name": "Black Fitted Joggers by Nike",
+            "price": 4200,
+            "image": "RedStore_Img\/product-12.jpg",
+            "description": "Sleek black fitted joggers by Nike, designed for performance and style.",
+            "category": "Joggers",
+            "stock": 10,
+            "rating": 4
+        },
+        {
+            "id": 13,
+            "name": "Smart Band 4",
+            "price": 2500,
+            "image": "RedStore_Img\/exclusive.png",
+            "description": "The Mi Smart Band 4 features a 39.9% larger AMOLED color full-touch display with adjustable brightness, so everything is clear as can be.",
+            "category": "Smart Wearables",
+            "stock": 7,
+            "rating": 4
+        },
+        {
+            "id": 14,
+            "name": "Solid Color Sweatshirt",
+            "price": 4000,
+            "image": "https:\/\/m.media-amazon.com\/images\/I\/61dlYyQVL7L._UY1000_.jpg",
+            "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+            "category": "T-shirts",
+            "stock": 15,
+            "rating": 4
+        },
+        {
+            "id": 15,
+            "name": "Random Blue T-shirt",
+            "price": 1000,
+            "image": "https:\/\/www.purplemoonpromo.co.uk\/assets\/mens-promotional-t-shirts.jpg",
+            "description": "Pretty t-shirt",
+            "category": "T-shirts",
+            "stock": 0,
+            "rating": 3.5
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "username": "john",
+            "email": "john@example.com"
+        },
+        {
+            "id": 2,
+            "username": "jane",
+            "email": "jane@example.com"
+        },
+        {
+            "id": 3,
+            "username": "Samnata",
+            "email": "samnata@example.com",
+            "password": "$2y$10$NqFFjr2mtHsmMJf02K8RkuDHvEi9dOe4XSIvyN1ZiR\/PWVxCu7VPy"
+        },
+        {
+            "id": 4,
+            "username": "Samanta",
+            "email": "samantaahmed09801@gmail.com",
+            "password": "$2y$10$ui9HVg8fWxgyUrLv4uwEJeZF8KGOPA3Xea5s4O2hAUb3o3FduKssW"
+        },
+        {
+            "id": 5,
+            "username": "amina",
+            "email": "amina@gmail.com",
+            "password": "$2y$10$gwMARb22Z5QxTHiACCFuqeSc6MHMB\/dGZsLia5aDP\/ntwenblLr4K"
+        }
+    ],
+    "orders": [
+        {
+            "id": 3,
+            "user": "Samnata",
+            "items": [
+                {
+                    "id": 12,
+                    "name": "Black Fitted Joggers by Nike",
+                    "image": "RedStore_Img\/product-12.jpg",
+                    "price": 4200,
+                    "quantity": 1
+                },
+                {
+                    "id": 6,
+                    "name": "Black Printed T-shirt by Puma",
+                    "image": "RedStore_Img\/product-6.jpg",
+                    "price": 550,
+                    "quantity": 1
+                },
+                {
+                    "id": 2,
+                    "name": "Black Sports Shoes",
+                    "image": "RedStore_Img\/product-2.jpg",
+                    "price": 2500,
+                    "quantity": 2
+                }
+            ],
+            "total": 9750,
+            "date": "2025-09-14 17:07:35"
+        },
+        {
+            "id": 4,
+            "user": "Samnata",
+            "items": [
+                {
+                    "id": 13,
+                    "name": "Smart Band 4",
+                    "image": "RedStore_Img\/exclusive.png",
+                    "price": 2500,
+                    "quantity": 1
+                },
+                {
+                    "id": 14,
+                    "name": "Solid Color Sweatshirt",
+                    "image": "https:\/\/m.media-amazon.com\/images\/I\/61dlYyQVL7L._UY1000_.jpg",
+                    "price": 4000,
+                    "quantity": 3
+                },
+                {
+                    "id": 8,
+                    "name": "Watch by Fossil",
+                    "image": "RedStore_Img\/product-8.jpg",
+                    "price": 8000,
+                    "quantity": 3
+                }
+            ],
+            "total": 38500,
+            "date": "2025-09-14 17:32:19"
+        },
+        {
+            "id": 6,
+            "user": "Samnata",
+            "items": [
+                {
+                    "id": 12,
+                    "name": "Black Fitted Joggers by Nike",
+                    "image": "RedStore_Img\/product-12.jpg",
+                    "price": 4200,
+                    "quantity": 2
+                },
+                {
+                    "id": 3,
+                    "name": "Black Joggers",
+                    "image": "RedStore_Img\/product-3.jpg",
+                    "price": 4000,
+                    "quantity": 1
+                },
+                {
+                    "id": 2,
+                    "name": "Black Sports Shoes",
+                    "image": "RedStore_Img\/product-2.jpg",
+                    "price": 2500,
+                    "quantity": 1
+                }
+            ],
+            "total": 14900,
+            "date": "2025-09-14 17:38:12"
+        },
+        {
+            "id": 7,
+            "user": "Samnata",
+            "items": [
+                {
+                    "id": 6,
+                    "name": "Black Printed T-shirt by Puma",
+                    "image": "RedStore_Img\/product-6.jpg",
+                    "price": 550,
+                    "quantity": 1
+                },
+                {
+                    "id": 2,
+                    "name": "Black Sports Shoes",
+                    "image": "RedStore_Img\/product-2.jpg",
+                    "price": 2500,
+                    "quantity": 3
+                },
+                {
+                    "id": 10,
+                    "name": "Black and Red Printed Shoes",
+                    "image": "RedStore_Img\/product-10.jpg",
+                    "price": 3500,
+                    "quantity": 1
+                }
+            ],
+            "total": 11550,
+            "date": "2025-09-14 17:38:56"
+        },
+        {
+            "id": 9,
+            "user": "Samnata",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Red Printed T-shirt by HRX",
+                    "image": "RedStore_Img\/product-1.jpg",
+                    "price": 500,
+                    "quantity": 1
+                },
+                {
+                    "id": 13,
+                    "name": "Smart Band 4",
+                    "image": "RedStore_Img\/exclusive.png",
+                    "price": 2500,
+                    "quantity": 1
+                },
+                {
+                    "id": 14,
+                    "name": "Solid Color Sweatshirt",
+                    "image": "https:\/\/m.media-amazon.com\/images\/I\/61dlYyQVL7L._UY1000_.jpg",
+                    "price": 4000,
+                    "quantity": 1
+                }
+            ],
+            "total": 7000,
+            "date": "2025-09-15 14:37:35"
+        },
+        {
+            "id": 10,
+            "user": "Samnata",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Red Printed T-shirt by HRX",
+                    "image": "RedStore_Img\/product-1.jpg",
+                    "price": 500,
+                    "quantity": 4,
+                    "size": "XXL"
+                }
+            ],
+            "total": 2000,
+            "date": "2025-09-15 14:59:07"
+        },
+        {
+            "id": 11,
+            "user": "Samnata",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Red Printed T-shirt by HRX",
+                    "image": "RedStore_Img\/product-1.jpg",
+                    "price": 500,
+                    "quantity": 2,
+                    "size": "Medium"
+                },
+                {
+                    "id": 3,
+                    "name": "Black Joggers",
+                    "image": "RedStore_Img\/product-3.jpg",
+                    "price": 4000,
+                    "quantity": 2,
+                    "size": "Medium"
+                },
+                {
+                    "id": 2,
+                    "name": "Black Sports Shoes",
+                    "image": "RedStore_Img\/product-2.jpg",
+                    "price": 2500,
+                    "quantity": 1,
+                    "size": "Medium"
+                }
+            ],
+            "total": 11500,
+            "date": "2025-09-18 17:51:02",
+            "contact_number": "12345",
+            "address": "talaimari",
+            "payment_method": "Cash on Delivery",
+            "status": "Processing"
+        },
+        {
+            "id": 12,
+            "user": "Samnata",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Red Printed T-shirt by HRX",
+                    "image": "RedStore_Img\/product-1.jpg",
+                    "price": 500,
+                    "quantity": 3,
+                    "size": "Large"
+                },
+                {
+                    "id": 6,
+                    "name": "Black Printed T-shirt by Puma",
+                    "image": "RedStore_Img\/product-6.jpg",
+                    "price": 550,
+                    "quantity": 1,
+                    "size": "Medium"
+                },
+                {
+                    "id": 5,
+                    "name": "Gray Sneakers",
+                    "image": "RedStore_Img\/product-5.jpg",
+                    "price": 3000,
+                    "quantity": 2,
+                    "size": "Medium"
+                },
+                {
+                    "id": 2,
+                    "name": "Black Sports Shoes",
+                    "image": "RedStore_Img\/product-2.jpg",
+                    "price": 2500,
+                    "quantity": 1,
+                    "size": "Medium"
+                }
+            ],
+            "total": 10550,
+            "date": "2025-09-19 09:28:25",
+            "contact_number": "12345",
+            "address": "jkgytg",
+            "payment_method": "Cash on Delivery",
+            "status": "Pending"
+        },
+        {
+            "id": 13,
+            "user": "Samnata",
+            "items": [
+                {
+                    "id": 14,
+                    "name": "Solid Color Sweatshirt",
+                    "image": "https:\/\/m.media-amazon.com\/images\/I\/61dlYyQVL7L._UY1000_.jpg",
+                    "price": 4000,
+                    "quantity": 5,
+                    "size": "Medium"
+                },
+                {
+                    "id": 1,
+                    "name": "Red Printed T-shirt by HRX",
+                    "image": "RedStore_Img\/product-1.jpg",
+                    "price": 500,
+                    "quantity": 8,
+                    "size": "Medium"
+                },
+                {
+                    "id": 3,
+                    "name": "Black Joggers",
+                    "image": "RedStore_Img\/product-3.jpg",
+                    "price": 4000,
+                    "quantity": 1,
+                    "size": "XL"
+                },
+                {
+                    "id": 3,
+                    "name": "Black Joggers",
+                    "image": "RedStore_Img\/product-3.jpg",
+                    "price": 4000,
+                    "quantity": 1,
+                    "size": "Large"
+                }
+            ],
+            "total": 32000,
+            "date": "2025-09-19 14:00:27",
+            "contact_number": "12345",
+            "address": "dqaeqqdf",
+            "payment_method": "Cash on Delivery",
+            "status": "Pending"
+        },
+        {
+            "id": 14,
+            "user": "Samnata",
+            "items": [
+                {
+                    "id": 12,
+                    "name": "Black Fitted Joggers by Nike",
+                    "image": "RedStore_Img\/product-12.jpg",
+                    "price": 4200,
+                    "quantity": 8,
+                    "size": "Medium"
+                }
+            ],
+            "total": 36960,
+            "date": "2025-09-19 14:14:47",
+            "contact_number": "12345",
+            "address": "hjfyfy",
+            "payment_method": "Cash on Delivery",
+            "status": "Pending"
+        },
+        {
+            "id": 15,
+            "user": "Samnata",
+            "items": [
+                {
+                    "id": 4,
+                    "name": "Blue Printed T-shirt by Puma",
+                    "image": "RedStore_Img\/product-4.jpg",
+                    "price": 600,
+                    "quantity": 10,
+                    "size": "Medium"
+                }
+            ],
+            "total": 6600.000000000001,
+            "date": "2025-09-19 15:15:01",
+            "contact_number": "12345",
+            "address": "wfefwf",
+            "payment_method": "Cash on Delivery",
+            "status": "Pending"
+        },
+        {
+            "id": 16,
+            "user": "Samnata",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Red Printed T-shirt by HRX",
+                    "image": "RedStore_Img\/product-1.jpg",
+                    "price": 500,
+                    "quantity": 5,
+                    "size": "XL"
+                }
+            ],
+            "total": 2750,
+            "date": "2025-09-19 19:58:01",
+            "contact_number": "12345",
+            "address": "talaimari",
+            "payment_method": "Cash on Delivery",
+            "status": "Pending"
+        },
+        {
+            "id": 17,
+            "user": "Samnata",
+            "items": [
+                {
+                    "id": 13,
+                    "name": "Smart Band 4",
+                    "image": "RedStore_Img\/exclusive.png",
+                    "price": 2500,
+                    "quantity": 1,
+                    "size": "Medium"
+                },
+                {
+                    "id": 2,
+                    "name": "Black Sports Shoes",
+                    "image": "RedStore_Img\/product-2.jpg",
+                    "price": 2500,
+                    "quantity": 1,
+                    "size": "Medium"
+                }
+            ],
+            "total": 5500,
+            "date": "2025-09-22 03:07:53",
+            "contact_number": "123",
+            "address": "talaimari",
+            "payment_method": "Cash on Delivery",
+            "status": "Pending"
+        }
+    ]
+}
